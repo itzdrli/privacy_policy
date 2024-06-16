@@ -9,7 +9,7 @@ When you use the Plugin, we may collect the following anonymous data:
   1. Command Call Frequency: We record the number of times each command is called.
   2. Command Call Parameters: We collect and record the parameters used when commands are called.
   3. Execution Environment: We record the execution environment at the time of command call, such as Koishi version and Plugin version.
-  4. Geographical Location of IP: We obtain the geographical location of the command call IP address, specifically at the country level.
+  4. Geographical Location of IP: We obtain the geographical location of the command call IP address, specifically at the city level.
 
 ## 2. Purpose of Data Collection
 
@@ -56,4 +56,4 @@ Thank you for using the plugin developed by itzdrli and trusting our data proces
 
 ***
 
-This privacy policy is effective from June 14, 2024 (UTC).
+This privacy policy is effective from June 16, 2024 (UTC).
