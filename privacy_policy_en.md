@@ -1,59 +1,46 @@
+[简体中文](README.md)
+
 # Privacy Policy
 
-Thank you for using the plugin developed by itzdrli (hereinafter referred to as "the Plugin"). To help us improve and optimize user experience, the Plugin will collect some anonymous data. This privacy policy details the types of data we collect, the purpose of collection, how we use it, and your control over this data.
+Thank you for choosing the internet services developed/provided by itzdrli (hereinafter referred to as "the Service"). To help us continuously improve and optimize user experience, the Service will collect some anonymous data. This Privacy Policy details the types of data we collect, the purposes of collection, usage methods, and your rights over this data.
 
-## 1. Types of Data We Collect
+## I. Types of Data We Collect
+When you use the Service, we may collect the following anonymous data:
+ 1. Service Usage: Record the number of calls and frequency of various functions, pages, and commands.
+ 2. Interaction Parameters: Collect and record relevant parameters and operation content during service interactions.
+ 3. Runtime Environment: Record the technical environment of the service, including but not limited to operating system, browser version, device type, software version.
+ 4. Access Information: Obtain geographic location information through IP address, precise to the city level.
+ 5. Performance Metrics: Collect technical performance data such as service response time and error rates.
 
-When you use the Plugin, we may collect the following anonymous data:
+## II. Purposes of Data Collection
+We collect these data for the following purposes:
+ 1. Continuous Optimization: In-depth analysis of user usage patterns to continuously improve and optimize the Service's performance and functionality.
+ 2. User Experience: Deeply understand user needs to provide more intelligent and personalized services.
+ 3. Problem Diagnosis: Quickly locate and resolve potential technical issues and user pain points in the service.
+ 4. Security Protection: Identify potential security risks and abnormal access behaviors.
 
-  1. Command Call Frequency: We record the number of times each command is called.
-  2. Command Call Parameters: We collect and record the parameters used when commands are called.
-  3. Execution Environment: We record the execution environment at the time of command call, such as Koishi version and Plugin version.
-  4. Geographical Location of IP: We obtain the geographical location of the command call IP address, specifically at the city level.
-
-## 2. Purpose of Data Collection
-
-The purposes for collecting this data are:
-
-  1. Improvement and Optimization: Analyze user usage patterns to improve and optimize the Plugin's performance and functionality.
-  2. User Experience: Understand user needs to enhance user experience.
-  3. Issue Troubleshooting: Help us quickly locate and resolve potential issues.
-
-## 3. Use of Collected Data
-
+## III. Data Usage Methods
 All collected data will be used for the following purposes:
+ 1. Statistical Analysis: Conduct professional data analysis to comprehensively understand user usage and service operation status.
+ 2. Product Iteration: Continuously optimize product features based on analysis results to provide higher-quality service experiences.
+ 3. Technical Support: Provide precise and efficient technical support when users provide feedback.
+ 4. System Maintenance: Monitor and maintain the overall service quality.
 
-  1. Statistical Analysis: Conduct internal statistical analysis to better understand user usage.
-  2. Function Optimization: Optimize Plugin functions based on analysis results to provide better service.
-  3. Technical Support: Provide necessary technical support when users report issues.
+## IV. Data Protection
+We commit to adopting the strictest technical and organizational measures to protect your data from unauthorized access, use, or disclosure. These measures include but are not limited to:
+ 1. Data Anonymization: All collected data is anonymous and does not contain any information that can identify personal identity.
+ 2. Data Encryption: Adopt industry-leading encryption technologies to protect data storage and transmission security.
+ 3. Access Control: Strictly limit internal personnel's access to data, allowing only necessary technical personnel to access.
+ 4. No Third-Party Sharing: We will not share these information with any third-party entities.
 
-## 4. Data Protection
+## V. Your Data Control Rights
+Although the data we collect is anonymous, you can still choose to:
+ 1. Disable Data Collection: If you do not agree with this Privacy Policy, you can disable anonymous data collection options through the service configuration interface at any time.
+ 2. Contact Us: If you have any questions or concerns about the privacy policy, you can communicate with us through the specified methods.
 
-We are committed to taking reasonable technical and organizational measures to protect your data from unauthorized access, use, or disclosure. These measures include but are not limited to:
+## VI. Privacy Policy Changes
+We may update this Privacy Policy from time to time to reflect changes in our data processing practices. Any substantial changes will be notified to users in advance when the updated Privacy Policy is published. We encourage you to periodically review this Privacy Policy to understand how we protect your data.
 
-  1. Data Anonymization: All collected data is anonymized and does not contain any personally identifiable information.
-  2. Data Storage Security: Implement strict security measures to protect data storage and transmission.
-  3. No Third-Party Sharing: We will not share this information with any third-party entities.
-
-## 5. Your Data Control
-
-Although the data we collect is anonymous, you still have the option to:
-
-  1. Disable Data Collection: If you do not agree with this privacy policy, you can disable anonymous data collection through the Plugin's configuration interface at any time.
-  2. Contact Us: If you have any questions or concerns about the privacy policy, you can contact us using the information provided below.
-
-## 6. Changes to the Privacy Policy
-
-We may update this privacy policy from time to time to reflect changes in our data processing practices. Any changes will be effective upon the posting of the updated privacy policy. We encourage you to periodically review this privacy policy to stay informed about how we protect your data.
-
-## 7. Contact Us
-
-If you have any questions or suggestions regarding this privacy policy, please contact us at:
-
-Email: admin@itzdrli.com
-
-Thank you for using the plugin developed by itzdrli and trusting our data processing practices.
-
-***
-
-This privacy policy is effective from June 16, 2024 (UTC).
+## VII. Contact Us
+If you have any questions or suggestions about this Privacy Policy, please contact us through the following method:
+Email: itzdrli@proton.me
